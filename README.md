@@ -133,7 +133,7 @@ This guide will walk you through setting up your environment and running the “
 5. Clone the project repository:
 
    ```bash
-   git clone https://github.com/wne-uw-mjwozniak/wne-uw-ml1-qf-case-study-tax-avoidance.git
+   git clone https://github.com/wne-uw-mjwozniak/wne-uw-ml1-case-study-tax-avoidance.git
    ```
 
    **What this does:** Downloads a local copy of the project’s code.
@@ -141,7 +141,7 @@ This guide will walk you through setting up your environment and running the “
 6. Change into the project folder:
 
    ```bash
-   cd wne-uw-ml1-qf-case-study-tax-avoidance/
+   cd wne-uw-ml1-case-study-tax-avoidance/
    ```
 
 7. Sync the environment with UV:
@@ -161,7 +161,7 @@ This guide will walk you through setting up your environment and running the “
 ## 🔗 Useful Links
 
 * **Project Repository**
-  [https://github.com/wne-uw-mjwozniak/wne-uw-ml1-qf-case-study-tax-avoidance](https://github.com/wne-uw-mjwozniak/wne-uw-ml1-qf-case-study-tax-avoidance)
+  [https://github.com/wne-uw-mjwozniak/wne-uw-ml1-case-study-tax-avoidance](https://github.com/wne-uw-mjwozniak/wne-uw-ml1-case-study-tax-avoidance)
 
 * **Python Downloads**
   [https://www.python.org/downloads/](https://www.python.org/downloads/)
